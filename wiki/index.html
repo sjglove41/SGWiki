@@ -1,0 +1,72 @@
+---
+layout: default
+title: Personal Wiki / Digital Garden
+---
+	<h1>{{ page.title }}</h1>
+  <h3 style="text-align: center;">Garden of Goodness</h3>
+
+   <blockquote>
+   <p>
+   "Your machine is a library, not a publication device. You have copies of documents in there that you control directly, that you can annotate, change, add links to, summarize, and this is because the memex is a tool to think with, not a tool to publish with." <br/>-- <a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">Mike Caulfield</a>
+</p></blockquote>
+
+<p>This is my Personal Wiki. 
+
+Below is every article in this wiki. 
+<p>Notes importance guide: 🌱 < 🌿 < 🌻.<br>
+🌱: Stub or unimportant, 🌿: curious, usually a single idea, 🌻: interesting, more fleshed out, usually finished. </p>
+<div style = 'text-align:center;'>
+<!-- Html Elements for Search -->
+<input type="text" id="search-input" placeholder="Search the Wiki... (tag-based search)" style='font-size: 1.1rem;text-align:center;min-width:75%;'>
+
+<div id="search-container">
+<ul id="results-container" style='list-style-type:none;'></ul>
+</div>
+
+      <h2>All Notes</h2>
+      <p><i>Or see the <a href="/wiki/navigation-guide"><b>contents section</b></a> for a table of contents.</i></p>
+
+	<ul class="posts">
+{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'wiki' " | sort:"importance" | reverse %}
+
+{% for item in folder1 %}
+{% if item.path contains 'index' %}
+{% elsif item.path contains 'category' %}
+{% else %}
+{% if item.language == 'English' %}
+<a href="{{ item.url }}" class="wiki-item" title="{{ item.description }}">
+{% if item.importance >= 7 %}🌻{% elsif item.importance >= 5 %}🌿{% else %}🌱
+{% endif %} {{ item.title }}</a>
+{% endif %}
+{% endif %}
+{% endfor %}
+ </ul>
+
+   
+</div>
+<br/>
+
+<p>Idea and a bit of the code were taken from <a href='https://tomcritchlow.com/wiki/'>Tom Critchlow's Digital Garden</a>. </p>
+
+
+<!-- Script pointing to search-script.js -->
+<script src="/js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+
+const windowWidth = window.innerWidth;
+const maxDeviceWidth = 768;
+if (windowWidth < maxDeviceWidth) {
+  var wiki_list = document.querySelectorAll('.wiki-item');
+  for (var wiki_item of wiki_list) {
+    wiki_item.classList.add('wide');
+  }
+}
+</script>
+   
