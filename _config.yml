@@ -1,14 +1,3 @@
-name: Luciano Strika (@StrikingLoo)'s Personal Site
-permalink: /:title
-
-markdown: kramdown
-kramdown:
-  input: GFM
-  auto_ids: true
-
-defaults:
-  -
-    scope:
-      path: "wiki/" # an empty string here means all files in the project
-    values:
-      importance: 5
+theme: jekyll-theme-tactile
+title: SG's page
+description: Hello world!
