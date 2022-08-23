@@ -1,10 +1,10 @@
 :root {
   --bkg: #FFFDFB;
   --font-color: #24272B;
-  --header-anchor-color: #80FFBF;
-  --anchor-hover-color: #3399FF;
-  --wiki-bkg-color: #6699FF;
-  --wiki-bkg-color-hover: #FFCC66;
+  --header-anchor-color: #6E8DD5;
+  --anchor-hover-color: #c34;
+  --wiki-bkg-color: #cfebfb;
+  --wiki-bkg-color-hover: #E1F3FB;
 }
 
 body {
