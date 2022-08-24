@@ -9,7 +9,7 @@ importance:3
 ---
 This post will serve as home for remembering how to format my wiki posts.
 
-#This is how to make a header 
+# This is how to make a header 
 
 **Bolded words**
 
