@@ -13,7 +13,7 @@ Rather than talking or medication, the patient (usually a PTSD patient) will be 
 
 The idea is that it allows patients to access the memory of the traumatic event, rather than blocking it off. By forming new associations with the event, the patient allows their brain to heal the damage, like a wound is healed once you remove occlusion.
 
-I'd like to learn more about this.
+I found out about EMDR after reading [this article](https://www.theatlantic.com/ideas/archive/2022/08/pregnancy-birth-complication-abortion-life-of-mother/671006/) by Annie Lowrey in the Atlantic about her difficult pregnancies. She said it was instrumental in dealing with that trauma.
 
 Source: <[https://www.emdr.com/what-is-emdr]>
 
