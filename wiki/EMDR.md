@@ -5,7 +5,7 @@ date: 2022-08-24
 description: 
 tags: medicine, psychology
 language: English
-importance: 3
+importance: 5
 ---
 EMDR (Eye Movement Desensitization and Reprocessing) is a relatively new type of therapy for PTSD. It seems to be decently well-established in the therapy community, and is recognized to be effective by the American Psychiatric Assocation (source:<[https://www.apa.org/ptsd-guideline/treatments/eye-movement-reprocessing>]
 
