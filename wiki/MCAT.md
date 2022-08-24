@@ -59,7 +59,7 @@ Subcategory: Atomic structure
 Key concept: The *principal quantum number n* describes the energy of an electron in that shell, and the most probable distance of that electron from the nucleus.
 
 > Example: if *n* = 7, what is the principal electron shell?
-
+>
 > Answer: 2
 
 **Question 30**
