@@ -12,7 +12,7 @@ This post will serve as home for remembering how to format my wiki posts.
 
 # This is how to make a header 
 
-*Bolded words*
+**Bolded words**
 
 [Link with alt text](site.samglover.me)
 
