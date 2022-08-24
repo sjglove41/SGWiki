@@ -6,4 +6,6 @@ description:
 tags: hi
 importance: 1
 ---
-Hey
+This post will serve as home for remembering how to format my wiki posts.
+
+# This is how to make a header 
