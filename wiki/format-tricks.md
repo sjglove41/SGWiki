@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Formatting Tricks"
+title: "Markdown Formatting Tricks"
 date: 2022-08-24
 description: "Personal storage for how to format my wiki posts"
 tag: css, notes, personal
