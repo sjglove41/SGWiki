@@ -14,3 +14,4 @@ This post will serve as home for remembering how to format my wiki posts.
 
 [Link with alt text](site.samglover.me)
 
+> "Block quote formatting will be especially useful for breaking up the visual monotony of the wiki." - Sam Glover
