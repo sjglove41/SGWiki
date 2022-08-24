@@ -6,11 +6,12 @@ description: "Personal storage for how to format my wiki posts"
 tag: css, notes, personal
 importance:3
 ---
+
 This post will serve as home for remembering how to format my wiki posts.
 
 # This is how to make a header 
 
-**Bold bullet point**
+**Bolded words**
 
 [Link with alt text](site.samglover.me)
 
