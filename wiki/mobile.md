@@ -7,5 +7,5 @@ importance: 2
 ---
 The Github mobile app does not allow you to commit a file from your phone.
 
-To do so, I'll have to go to the [Github desktop site](https://github.com/sjglove41/sjglove41.github.io/tree/master/wiki)
+To do so, I'll have to go to the Github desktop site
 and submit files that way. Let's see if this works.
