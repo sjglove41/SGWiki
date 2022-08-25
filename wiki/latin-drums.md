@@ -17,12 +17,12 @@ Variations - add the left foot on 2 and 4.
 
 2/3 clave, substitute cross-sticks with rack tom
 
-![](/image/bossa-nova.png)
+![](image/bossa-nova.png)
 
 ### Songo
 Made for drumset, this one has a bomba kick drum. Lots of room for variation
 
-![](/image/songo.png)
+![](image/songo.png)
 
 
 # Intermediate
