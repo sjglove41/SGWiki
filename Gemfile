@@ -11,3 +11,4 @@ gem 'jekyll-toc'
 
 gem "webrick", "~> 1.7"
 gem "nokogiri", ">= 1.12.5"
+gem 'jemoji'
