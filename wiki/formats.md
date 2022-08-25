@@ -18,4 +18,4 @@ This post will serve as home for remembering how to format my wiki posts.
 
 [Site containing shortcodes for emojis](https://gist.github.com/rxaviers/7360908) :yum:
 
-[](/image/arginine.png)
+![](image/arginine.png)
