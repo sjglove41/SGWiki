@@ -15,4 +15,5 @@ This post will serve as home for remembering how to format my wiki posts.
 **Bolded words**
 
 # This is how to make a header 
-Nice
+
+[Site containing shortcodes for emojis](https://gist.github.com/rxaviers/7360908) :yum:
