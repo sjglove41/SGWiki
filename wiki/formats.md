@@ -18,4 +18,6 @@ This post will serve as home for remembering how to format my wiki posts.
 
 [Site containing shortcodes for emojis](https://gist.github.com/rxaviers/7360908)  :yum:
 
+[Markdown basic syntax guide](https://www.markdownguide.org/basic-syntax/)
+
 ![](image/arginine.png)
