@@ -13,14 +13,16 @@ importance: 4
 ### Bossa Nova
 Basic - uses a 3/2 clave
 
-Variations - 2/3 clave, rack tom to end bar
+Variations - add the left foot on 2 and 4. 
 
-![](/images/bossa-nova.png)
+2/3 clave, substitute cross-sticks with rack tom
+
+![](/image/bossa-nova.png)
 
 ### Songo
 Made for drumset, this one has a bomba kick drum. Lots of room for variation
 
-![](/images/songo.png)
+![](/image/songo.png)
 
 
 # Intermediate
