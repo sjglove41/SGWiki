@@ -17,3 +17,5 @@ This post will serve as home for remembering how to format my wiki posts.
 # This is how to make a header 
 
 [Site containing shortcodes for emojis](https://gist.github.com/rxaviers/7360908) :yum:
+
+[](/image/arginine.png)
