@@ -1,0 +1,43 @@
+backend:
+  name: git-gateway
+  branch: 
+  # This line should *not* be indented
+publish_mode: editorial_workflow
+# This line should *not* be indented
+media_folder: "resources" # Media files will be stored in the repo under images/uploads
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+  label: 'Pages'
+  editor:
+    preview: false
+  files:
+    - label: 'About Page'
+      name: 'about'
+      file: 'about.md'
+      fields:
+        - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
+        - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
+        - { label: 'Body', name: 'body', widget: 'markdown' }
+- name: 'wiki'
+  label: 'Wiki'
+  folder: 'wiki/'
+  editor:
+    preview: false
+  fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  
