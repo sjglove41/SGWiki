@@ -65,8 +65,41 @@ In eukaryotic organisms, the transcript is only *pre-mRNA*. It must be modified 
  - It will often undergo splicing, where introns are cut out, leaving the exons stuck together.
  If introns are not removed, the resulting polypeptide will be faulty.
 		
-
 **Question 15**
 Subcategory: Acid/base reactions
 
 Key concept: The pH of blood is higher than that of pure water, usually around 7.4. This is maintained by other equilibria (buffers).
+
+*Question 16**
+Biochem, I'll do this later
+
+**Question 21**
+Subcategory: Central dogma
+
+Key concept: Errors in translating proteins can result in mistranslation. Mistranslation most often results in misfolding of the protein.
+
+**Question 22**
+Subcategory: Organs and organ systems
+
+Key concept: The control of blood sugar by insulin is the classic example of a [negative feedback loop](https://bio.libretexts.org/@api/deki/files/15807/glucose_feedback.png?revision=1).
+
+Blood sugar rises -> pancreas secretes insulin -> body cells take up glucose and liver creates glycogen -> homeostasis
+
+Blood sugar falls -> alpha cells in pancreas release glucagon -> liver releases glucose via glycogenesis -> blood sugar risese to homeostasis
+
+**Question 23**
+Subcategory: Bioenergetics
+
+Key concept: Under low-food conditions, where nutrients are at low concentrations, only the high affinity transporters of L-alanine would be able to facilitate its binding and uptake.
+
+**Question 31**
+Subcategory: Amino acids
+
+Key concept: A zwitterion is a molecule that has both positive and negative regions of charge. Amino acids are zwitterionic at pH 7 because of their amino group and carboxyl group. This doesn't seem to be much affected by the side chain.
+
+Net charges of amino acids:
+> Negative: Aspartate, glutamate
+>
+> Positive: Lysine, arginine, histidine
+>
+> Neutral: all others
