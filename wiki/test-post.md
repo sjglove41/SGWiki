@@ -17,4 +17,3 @@ If this post shows up on my site, I'll be so happy!
 
 Sweet.
 
-![](image/arginine.png)
