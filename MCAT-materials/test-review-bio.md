@@ -132,20 +132,24 @@ Key concept: The retina is the portion of the eye that contains light receptors.
 - Rods detect light/dark, work in dim, see motion, and are on the periphery
 - Cones detect color, need brightness, located in the middle in the *fovea*
 
-**Question 
-Subcategory: 
+**Question 40**
+Subcategory: Cellular biology
 
-Key concept:
+Key concept: ATP is manufactured in the mitochondria. This is why it is known as the fireplace of the cell.
 
-**Question 
-Subcategory: 
+As cells create ATP, they also produce heat, so this is how animals keep warm. Therefore cells that are involved in keeping warm will be rich with mitochondria.
 
-Key concept:
+**Question 43**
+Subcategory: Organs and organ systems
 
-**Question 
-Subcategory: 
+Key concept: Just... read the damn questions correctly 😒
 
-Key concept:
+**Question 47**
+Subcategory: Biochemistry 
+
+Key concept: A fatty acid is composed of a long hydrocarbon tail and a head consisting of a carboxylic acid group.
+
+[![](/MCAT-materials/fatty-acid.png/)(http://hyperphysics.phy-astr.gsu.edu/hbase/Organic/fataci.html)
 
 **Question 
 Subcategory: 
