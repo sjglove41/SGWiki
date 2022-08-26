@@ -149,12 +149,12 @@ Subcategory: Biochemistry
 
 Key concept: A fatty acid is composed of a long hydrocarbon tail and a head consisting of a carboxylic acid group.
 
-[![](/MCAT-materials/fatty-acid.png/)(http://hyperphysics.phy-astr.gsu.edu/hbase/Organic/fataci.html)
+[![](/MCAT-materials/fatty-acid.png/)](http://hyperphysics.phy-astr.gsu.edu/hbase/Organic/fataci.html)
 
-**Question 
-Subcategory: 
+**Question 55**
+Subcategory: Bioenergetics
 
-Key concept:
+Key concept: See [this concept.](https://github.com/sjglove41/sjglove41.github.io/blob/master/wiki/MCAT.md#question-30). Kd for an receptor-ligand is worse attachment and is in units of concentration. Ka is better affinity and is inverse-concentration units. 
 
 **Question 
 Subcategory: 
