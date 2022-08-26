@@ -103,3 +103,66 @@ Net charges of amino acids:
 > Positive: Lysine, arginine, histidine
 >
 > Neutral: all others
+
+**Question 35**
+Subcategory: Organs and organ systems
+
+Key concept: Blood flows in the body from heart -> artery -> arteriole -> capillary -> venule -> vein.
+
+The arteriole is like the intermediary between artery and capillary. It controls blood flow to the capillaries, and is important for vasoconstriction. 
+
+The venule is intermediary between capillary and vein. It merges capillaries to conduct to veins.
+
+**Question 36**
+Subcategory: Organs and organ systems
+
+Key concept: When fewer visual pigment molecules are available to absorb light, eg. color weakness, the nervous system simply sends fewer signals of that color to the brain.
+
+**Question 39**
+Subcategory: Organs and organ systems
+
+Key concept: The retina is the portion of the eye that contains light receptors. The iris is not directly involved. 
+
+![](resources/eye.png)
+
+#### Other notes about the eye
+- Light enters through the cornea, which acts as a lens to refract light
+- Pupil dilates to adjust the amount of light that enters. When the pupil dilates, the cornea retracts.
+- Retina is the coating on the interior back of the eye, which contains rods and cones
+- Rods detect light/dark, work in dim, see motion, and are on the periphery
+- Cones detect color, need brightness, located in the middle in the *fovea*
+
+**Question 
+Subcategory: 
+
+Key concept:
+
+**Question 
+Subcategory: 
+
+Key concept:
+
+**Question 
+Subcategory: 
+
+Key concept:
+
+**Question 
+Subcategory: 
+
+Key concept:
+
+**Question 
+Subcategory: 
+
+Key concept:
+
+**Question 
+Subcategory: 
+
+Key concept:
+
+**Question 
+Subcategory: 
+
+Key concept:
