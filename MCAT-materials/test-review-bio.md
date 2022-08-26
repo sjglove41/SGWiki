@@ -154,19 +154,11 @@ Key concept: A fatty acid is composed of a long hydrocarbon tail and a head cons
 **Question 55**
 Subcategory: Bioenergetics
 
-Key concept: See [this concept.](https://github.com/sjglove41/sjglove41.github.io/blob/master/wiki/MCAT.md#question-30). Kd for an receptor-ligand is worse attachment and is in units of concentration. Ka is better affinity and is inverse-concentration units. 
+Key concept: See [this concept.](https://github.com/sjglove41/sjglove41.github.io/blob/master/wiki/MCAT.md#question-30) Kd for an receptor-ligand is worse attachment and is in units of concentration. Ka is better affinity and is inverse-concentration units. 
 
-**Question 
-Subcategory: 
+**Question 57**
+Subcategory: Central dogma
 
-Key concept:
+Key concept: Transciption repressor protein will block transcription of a gene, transcription activator will promote transcription of a gene.
 
-**Question 
-Subcategory: 
-
-Key concept:
-
-**Question 
-Subcategory: 
-
-Key concept:
+**WOO!**
