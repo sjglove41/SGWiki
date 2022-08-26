@@ -149,7 +149,7 @@ Subcategory: Biochemistry
 
 Key concept: A fatty acid is composed of a long hydrocarbon tail and a head consisting of a carboxylic acid group.
 
-[![](/MCAT-materials/fatty-acid.png/)](http://hyperphysics.phy-astr.gsu.edu/hbase/Organic/fataci.html)
+[![](/MCAT-materials/fatty-acid.png)](http://hyperphysics.phy-astr.gsu.edu/hbase/Organic/fataci.html)
 
 **Question 55**
 Subcategory: Bioenergetics
