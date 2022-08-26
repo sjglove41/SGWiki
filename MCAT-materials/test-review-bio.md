@@ -123,7 +123,7 @@ Subcategory: Organs and organ systems
 
 Key concept: The retina is the portion of the eye that contains light receptors. The iris is not directly involved. 
 
-![](image/eye.png)
+![](MCAT-materials/eye.png)
 
 #### Other notes about the eye
 - Light enters through the cornea, which acts as a lens to refract light
