@@ -21,3 +21,5 @@ This post will serve as home for remembering how to format my wiki posts.
 [Markdown basic syntax guide](https://www.markdownguide.org/basic-syntax/)
 
 ![](image/arginine.png)
+
+The little image that shows up at the top of the tab is called a "favicon". To change this, I go to layouts > default.
