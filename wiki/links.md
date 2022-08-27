@@ -9,4 +9,4 @@ importance: 4
 ---
 
 ### [Does Watching College Football on TV Have to Be So Miserable?](https://www.nytimes.com/2022/08/27/business/college-football-tv-espn.html) -- NYT.
-*   College football is unbearably long and ruined by commercialism.  
+*   College football is insanely long and tainted by commercialism
