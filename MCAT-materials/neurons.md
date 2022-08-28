@@ -7,6 +7,20 @@ description:
 language: English
 importance: 4
 ---
+## Cells in the nervous system
+**Neurons**
+
+**Neuroglia/ glial cells**
+##### CNS glial cells
+- Ependymal cells line compartments and produce CSF
+- Oligodendrocytes form myelin sheaths, which insulate and increase propagation speed
+- Microglia serve as immune cells
+- Astrocytes are responsible for nutrient provision and blood flow
+
+##### PNS glial cells
+- Schwann cells form myelin sheaths in the peripheral nervous system
+- Satellite cells provide structure and nutrients
+
 ## Neuronal activation
 1. Resting membrane potential is -70mV, maintained by channels that pump out Na+ and bring in K+
 2. Stimulus causes Na+ channels to open and depolarization, meaning potential becomes more positive. Leads to *Action Potential* (AP) at a certain threshold
