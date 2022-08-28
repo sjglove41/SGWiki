@@ -1,7 +1,13 @@
-  ---
-  layout: post
-  ---
-  
+---
+layout: post
+date: 2022-08-28
+title: "VSEPR Theory"
+tags: 
+description: 
+language: English
+importance: 4
+---
+
 # VSEPR Theory
 
 | **Hybridization** | **e- groups around center** | **Bonded pairs** | **Lone pairs**   | **Geometry**             | **Molecular Shape**                              | **Bond Angle** |
