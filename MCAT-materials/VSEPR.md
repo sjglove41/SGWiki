@@ -22,4 +22,4 @@ Electronic Geometry -- bonded and lone pairs are the same
 
 Molecular Shape -- lone pairs take up less space than bonded pairs
 
-![](/MCAT-materials/vsepr.png)
+![](/MCAT-materials/pic-vsepr.png)
