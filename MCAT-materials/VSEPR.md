@@ -12,5 +12,6 @@
 | sp3d              | 5                           | 5<br>4<br>3<br>2 | 0<br>1<br>2<br>3 | Trigonal <br>bipyramidal | Trig bipyramidal<br>Seesaw<br>T-Shaped<br>Linear | 90° and 120    |
 | sp3d2             | 6                           | 6<br>5<br>4      | 0<br>1<br>2      | Octahedral               | Octahedral<br>Square pyramidal<br>Square planar  | 90°            |
 
-Geometry -- bonded and lone pairs are the same
-Shape -- lone pairs take up less space than bonded pairs
+Electronic Geometry -- bonded and lone pairs are the same
+
+Molecular Shape -- lone pairs take up less space than bonded pairs
