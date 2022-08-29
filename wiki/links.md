@@ -12,3 +12,6 @@ importance: 4
 *   College football is insanely long and tainted by commercialism
 
 ### [Thread on how to tell stories and captivate your audience](https://twitter.com/Julian/status/1563588259942264832?s=20&t=BBAyLcEJAaAybOeo7bBlFA)
+
+### [The dangerous populist science of Yuval Harari](https://www.currentaffairs.org/2022/07/the-dangerous-populist-science-of-yuval-noah-harari)
+* The author of *Sapiens* 
